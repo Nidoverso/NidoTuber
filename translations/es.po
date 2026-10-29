@@ -1,0 +1,546 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NidoTuber\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "avatar"
+msgstr "avatar"
+
+msgid "background"
+msgstr "fondo"
+
+msgid "accessory"
+msgstr "accesorio"
+
+msgid "avatars"
+msgstr "avatares"
+
+msgid "backgrounds"
+msgstr "fondos"
+
+msgid "accessories"
+msgstr "accesorios"
+
+msgid "New avatar"
+msgstr "Avatar nuevo"
+
+msgid "New background"
+msgstr "Fondo nuevo"
+
+msgid "New accessory"
+msgstr "Accesorio nuevo"
+
+msgid "Example avatar"
+msgstr "Avatar de ejemplo"
+
+msgid "Example background"
+msgstr "Fondo de ejemplo"
+
+msgid "%s (copy)"
+msgstr "%s (copia)"
+
+msgid "Collection"
+msgstr "Colección"
+
+msgid "Imported collection"
+msgstr "Colección importada"
+
+msgid "The accessory has no image, or it is not valid."
+msgstr "Al accesorio le falta la imagen o no es válida."
+
+msgid "The file is not a valid NidoTuber %s."
+msgstr "El archivo no es un %s de NidoTuber válido."
+
+msgid "The %s data is damaged."
+msgstr "Los datos del %s están dañados."
+
+msgid "This %s was made with a newer version of NidoTuber."
+msgstr "Este %s se creó con una versión más nueva de NidoTuber."
+
+msgid "The file is not a valid NidoTuber collection."
+msgstr "El archivo no es una colección de NidoTuber válida."
+
+msgid "The collection data is damaged."
+msgstr "Los datos de la colección están dañados."
+
+msgid "This collection was made with a newer version of NidoTuber."
+msgstr "Esta colección se creó con una versión más nueva de NidoTuber."
+
+msgid "This collection does not contain %s."
+msgstr "Esta colección no contiene %s."
+
+msgid "Search…"
+msgstr "Buscar…"
+
+msgid "New"
+msgstr "Nuevo"
+
+msgid "Duplicate"
+msgstr "Duplicar"
+
+msgid "Rename"
+msgstr "Renombrar"
+
+msgid "Move to…"
+msgstr "Mover a…"
+
+msgid "Import"
+msgstr "Importar"
+
+msgid "Export"
+msgstr "Exportar"
+
+msgid "Delete"
+msgstr "Eliminar"
+
+msgid "No results."
+msgstr "Ningún resultado."
+
+msgid "This collection is empty.\nDrag items onto its tab."
+msgstr "Esta colección está vacía.\nArrastra elementos a su pestaña."
+
+msgid "There are none yet."
+msgstr "Todavía no hay ninguno."
+
+msgid "Rename %s"
+msgstr "Renombrar %s"
+
+msgid "Delete %s"
+msgstr "Eliminar %s"
+
+msgid "Import %s"
+msgstr "Importar %s"
+
+msgid "Export %s"
+msgstr "Exportar %s"
+
+msgid "Delete “%s”?\nIt will be moved to the system trash."
+msgstr "¿Eliminar «%s»?\nSe enviará a la papelera del sistema."
+
+msgid "Could not delete the %s."
+msgstr "No se pudo eliminar el %s."
+
+msgid "Could not import the collection."
+msgstr "No se pudo importar la colección."
+
+msgid "Could not import the %s."
+msgstr "No se pudo importar el %s."
+
+msgid "Could not export the %s to:"
+msgstr "No se pudo exportar el %s a:"
+
+msgid "Could not export the collection to:"
+msgstr "No se pudo exportar la colección a:"
+
+msgid "All"
+msgstr "Todas"
+
+msgid "No collection"
+msgstr "Sin colección"
+
+msgid "New collection"
+msgstr "Nueva colección"
+
+msgid "Right-click to rename, reorder, export or delete the collection."
+msgstr "Clic derecho para renombrar, ordenar, exportar o eliminar la colección."
+
+msgid "Rename collection"
+msgstr "Renombrar colección"
+
+msgid "Delete collection"
+msgstr "Eliminar colección"
+
+msgid "Delete the collection “%s”?\nIts content is not deleted: it moves to “No collection”."
+msgstr "¿Eliminar la colección «%s»?\nSu contenido no se borra: pasa a «Sin colección»."
+
+msgid "Move left"
+msgstr "Mover a la izquierda"
+
+msgid "Move right"
+msgstr "Mover a la derecha"
+
+msgid "Export collection…"
+msgstr "Exportar colección…"
+
+msgid "Export collection"
+msgstr "Exportar colección"
+
+msgid "NidoTuber %s"
+msgstr "%s de NidoTuber"
+
+msgid "NidoTuber collection"
+msgstr "Colección de NidoTuber"
+
+msgid "NidoTuber files"
+msgstr "Archivos de NidoTuber"
+
+msgid "Images"
+msgstr "Imágenes"
+
+msgid "OK"
+msgstr "Aceptar"
+
+msgid "Cancel"
+msgstr "Cancelar"
+
+msgid "System default"
+msgstr "Predeterminado del sistema"
+
+msgid "Monitor of %s"
+msgstr "Monitor de %s"
+
+msgid "Internal audio"
+msgstr "Audio interno"
+
+msgid "Built-in audio"
+msgstr "Audio integrado"
+
+msgid "Idle"
+msgstr "Reposo"
+
+msgid "Talking"
+msgstr "Hablando"
+
+msgid "Idle · Blink"
+msgstr "Reposo · Parpadeo"
+
+msgid "Talking · Blink"
+msgstr "Hablando · Parpadeo"
+
+msgid "Avatar"
+msgstr "Avatar"
+
+msgid "Window height"
+msgstr "Alto de la ventana"
+
+msgid "Original"
+msgstr "Original"
+
+msgid "Up and down"
+msgstr "Sube y baja"
+
+msgid "Horizontal eight"
+msgstr "Ocho horizontal"
+
+msgid "Vertical eight"
+msgstr "Ocho vertical"
+
+msgid "Circle"
+msgstr "Círculo"
+
+msgid "Swing"
+msgstr "Columpio"
+
+msgid "Cover"
+msgstr "Cubrir"
+
+msgid "Contain"
+msgstr "Ajustar"
+
+msgid "Stretch"
+msgstr "Estirar"
+
+msgid "30 FPS"
+msgstr "30 FPS"
+
+msgid "60 FPS"
+msgstr "60 FPS"
+
+msgid "Unlimited"
+msgstr "Sin límite"
+
+msgid "Window"
+msgstr "Ventana"
+
+msgid "In front of the avatar"
+msgstr "Delante del avatar"
+
+msgid "Behind the avatar"
+msgstr "Detrás del avatar"
+
+msgid "Alternate"
+msgstr "Alternar"
+
+msgid "Left and right ends"
+msgstr "Extremos laterales"
+
+msgid "Top and bottom ends"
+msgstr "Extremos superior e inferior"
+
+msgid "Hide options"
+msgstr "Ocultar opciones"
+
+msgid "Avatars"
+msgstr "Avatares"
+
+msgid "Avatar settings"
+msgstr "Ajustes del avatar"
+
+msgid "Scale"
+msgstr "Escala"
+
+msgid "Position"
+msgstr "Posición"
+
+msgid "Motion"
+msgstr "Movimiento"
+
+msgid "Shape"
+msgstr "Forma"
+
+msgid "Tilt"
+msgstr "Inclinación"
+
+msgid "Breathing"
+msgstr "Respiración"
+
+msgid "Jump"
+msgstr "Salto"
+
+msgid "Blink"
+msgstr "Parpadeo"
+
+msgid "Avatar accessories"
+msgstr "Accesorios del avatar"
+
+msgid "Background"
+msgstr "Fondo"
+
+msgid "Backgrounds"
+msgstr "Fondos"
+
+msgid "Background settings"
+msgstr "Ajustes del fondo"
+
+msgid "Color"
+msgstr "Color"
+
+msgid "Image"
+msgstr "Imagen"
+
+msgid "Background accessories"
+msgstr "Accesorios del fondo"
+
+msgid "Accessories"
+msgstr "Accesorios"
+
+msgid "Accessory settings"
+msgstr "Ajustes del accesorio"
+
+msgid "General"
+msgstr "General"
+
+msgid "Microphone"
+msgstr "Micrófono"
+
+msgid "Performance"
+msgstr "Rendimiento"
+
+msgid "Language"
+msgstr "Idioma"
+
+msgid "Depth"
+msgstr "Profundidad"
+
+msgid "States"
+msgstr "Estados"
+
+msgid "Follow avatar"
+msgstr "Seguir al avatar"
+
+msgid "Drag to change the panel width"
+msgstr "Arrastra para cambiar el ancho del panel"
+
+msgid "Open avatars folder"
+msgstr "Abrir carpeta de avatares"
+
+msgid "Open backgrounds folder"
+msgstr "Abrir carpeta de fondos"
+
+msgid "Open accessories folder"
+msgstr "Abrir carpeta de accesorios"
+
+msgid "Base size"
+msgstr "Tamaño base"
+
+msgid "Multiplier"
+msgstr "Multiplicador"
+
+msgid "Smoothing"
+msgstr "Suavizado"
+
+msgid "Integer scaling"
+msgstr "Escalado entero"
+
+msgid "Horizontal"
+msgstr "Horizontal"
+
+msgid "Vertical"
+msgstr "Vertical"
+
+msgid "Center"
+msgstr "Centrar"
+
+msgid "Enabled"
+msgstr "Activado"
+
+msgid "Height"
+msgstr "Altura"
+
+msgid "Duration"
+msgstr "Duración"
+
+msgid "Double blink"
+msgstr "Parpadeo doble"
+
+msgid "Minimum interval"
+msgstr "Intervalo mínimo"
+
+msgid "Maximum interval"
+msgstr "Intervalo máximo"
+
+msgid "Choose image: %s"
+msgstr "Elegir imagen: %s"
+
+msgid "Could not load the image:"
+msgstr "No se pudo cargar la imagen:"
+
+msgid "Angle"
+msgstr "Ángulo"
+
+msgid "Horizontal reduction"
+msgstr "Reducción horizontal"
+
+msgid "Vertical reduction"
+msgstr "Reducción vertical"
+
+msgid "Horizontal amplitude"
+msgstr "Amplitud horizontal"
+
+msgid "Vertical amplitude"
+msgstr "Amplitud vertical"
+
+msgid "Figure"
+msgstr "Figura"
+
+msgid "Custom"
+msgstr "Personalizada"
+
+msgid "Horizontal oscillations"
+msgstr "Oscilaciones horizontales"
+
+msgid "Vertical oscillations"
+msgstr "Oscilaciones verticales"
+
+msgid "Phase"
+msgstr "Desfase"
+
+msgid "Reverse direction"
+msgstr "Invertir sentido"
+
+msgid "Background image"
+msgstr "Imagen del fondo"
+
+msgid "Remove image"
+msgstr "Quitar imagen"
+
+msgid "Fit"
+msgstr "Ajuste"
+
+msgid "New accessory image"
+msgstr "Imagen del accesorio nuevo"
+
+msgid "Change image"
+msgstr "Cambiar imagen"
+
+msgid "Accessory image"
+msgstr "Imagen del accesorio"
+
+msgid "Rotation"
+msgstr "Rotación"
+
+msgid "Flip"
+msgstr "Voltear"
+
+msgid "Anchor"
+msgstr "Anclaje"
+
+msgid "Layer"
+msgstr "Capa"
+
+msgid "Side switch"
+msgstr "Cambio de lado"
+
+msgid "Invert side"
+msgstr "Invertir lado"
+
+msgid "Flip on side switch"
+msgstr "Voltear al cambiar de lado"
+
+msgid "Perspective"
+msgstr "Perspectiva"
+
+msgid "Device"
+msgstr "Dispositivo"
+
+msgid "Threshold"
+msgstr "Umbral"
+
+msgid "Hold time"
+msgstr "Retención"
+
+msgid "Resolution"
+msgstr "Resolución"
+
+msgid "Custom (%d × %d)"
+msgstr "Personalizada (%d × %d)"
+
+msgid "Frame rate limit"
+msgstr "Límite de fotogramas"
+
+msgid "Vertical sync (VSync)"
+msgstr "Sincronización vertical (VSync)"
+
+msgid "Add"
+msgstr "Añadir"
+
+msgid "Remove"
+msgstr "Quitar"
+
+msgid "Reset"
+msgstr "Restablecer"
+
+msgid "Save to accessory"
+msgstr "Guardar en el accesorio"
+
+msgid "Use the library accessory's settings again."
+msgstr "Vuelve a usar los ajustes del accesorio de la biblioteca."
+
+msgid "Save these settings to the accessory: new placements will use them."
+msgstr "Guarda estos ajustes en el accesorio: los usarán las colocaciones nuevas."
+
+msgid "Create or import an accessory in the Accessories category first."
+msgstr "Primero crea o importa un accesorio en la categoría Accesorios."
+
+msgid "Go back to the library accessory's settings?\nThe changes to this placement will be lost."
+msgstr "¿Volver a los ajustes del accesorio de la biblioteca?\nSe perderán los cambios de esta colocación."
+
+msgid "Save these settings to the library accessory?\nNew placements will use them; existing ones do not change."
+msgstr "¿Guardar estos ajustes en el accesorio de la biblioteca?\nLos usarán las colocaciones nuevas; las que ya existen no cambian."
+
+msgid "%d item of the collection could not be imported."
+msgid_plural "%d items of the collection could not be imported."
+msgstr[0] "%d elemento de la colección no se pudo importar."
+msgstr[1] "%d elementos de la colección no se pudieron importar."
+
+msgid "It is placed %d time in avatars or backgrounds: it will be removed everywhere."
+msgid_plural "It is placed %d times in avatars or backgrounds: it will be removed everywhere."
+msgstr[0] "Está colocado %d vez en avatares o fondos: se quitará de todos."
+msgstr[1] "Está colocado %d veces en avatares o fondos: se quitará de todos."
+
+msgid "Show or hide this accessory without removing it"
+msgstr "Mostrar u ocultar este accesorio sin quitarlo"

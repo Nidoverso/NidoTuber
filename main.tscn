@@ -1,0 +1,30 @@
+[gd_scene format=3 uid="uid://bgtlfany6ilgf"]
+
+[ext_resource type="Script" uid="uid://buy7k4qbfelf0" path="res://main.gd" id="1_lquwl"]
+[ext_resource type="Script" uid="uid://bkc25md7nmous" path="res://avatar.gd" id="2_7mycd"]
+[ext_resource type="Texture2D" uid="uid://bqcr578upxchg" path="res://icon.png" id="3_lquwl"]
+[ext_resource type="Script" uid="uid://u5g2tlm3es4p" path="res://microphone.gd" id="4_272bh"]
+[ext_resource type="Script" uid="uid://jg35h1cn3rlh" path="res://options_panel.gd" id="5_5vw27"]
+
+[node name="Main" type="Node2D" unique_id=746574417]
+script = ExtResource("1_lquwl")
+
+[node name="Avatar" type="Node2D" parent="." unique_id=1605681994]
+script = ExtResource("2_7mycd")
+
+[node name="Sprite" type="Sprite2D" parent="Avatar" unique_id=218257826]
+scale = Vector2(0.45, 0.45)
+texture = ExtResource("3_lquwl")
+
+[node name="Microphone" type="AudioStreamPlayer" parent="." unique_id=490543012]
+script = ExtResource("4_272bh")
+
+[node name="UI" type="CanvasLayer" parent="." unique_id=1415936896]
+
+[node name="OptionsPanel" type="PanelContainer" parent="UI" unique_id=297710298]
+custom_minimum_size = Vector2(250, 0)
+anchors_preset = 9
+anchor_bottom = 1.0
+offset_right = 1.0
+grow_vertical = 2
+script = ExtResource("5_5vw27")
